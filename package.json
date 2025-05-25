@@ -8,16 +8,14 @@
     "test-jest": "jest --verbose"
   },
   "dependencies": {
-    "@azure/msal-node": "^1.17.1",
+    "@azure/msal-node": "^1.18.4",
     "@vtfk/logger": "^6.1.0",
     "axios": "^1.7.4",
-    "client-oauth2": "^4.3.3",
     "file-system-cache": "^2.4.4",
     "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "@types/jest": "^29.5.2",
-    "azure-functions-core-tools": "^4.x",
     "jest": "^29.5.0",
     "standard": "^17.1.0"
   },
